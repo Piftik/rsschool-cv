@@ -52,5 +52,14 @@ I have been working as a chief engineer from 2013 to the present day.
 
 ### Education:
 
-Polotsk State University
-Higher education
+- Polotsk State University
+  Higher education
+- RSShool
+
+* Hexlet CSS/HTML
+
+---
+
+### English
+
+##### A2
