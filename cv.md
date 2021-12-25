@@ -43,3 +43,14 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 };
 
 ```
+
+---
+
+### Work experience:
+
+I have been working as a chief engineer from 2013 to the present day.
+
+### Education:
+
+Polotsk State University
+Higher education
