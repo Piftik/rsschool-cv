@@ -30,3 +30,16 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 * Figma
 
 ---
+
+### Code example:
+
+```function squareDigits(num){
+    var string = num.toString();
+    var results = [];
+    for (var i = 0; i < string.length; i++){
+        results[i] = string[i] * string[i];
+    }
+    return Number(results.join(''));
+};
+
+```
