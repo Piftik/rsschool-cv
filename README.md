@@ -1,1 +1,1 @@
-https://Piftik.github.io/rsschool-cv/cv
+https://Piftik.github.io/rsschool-cv/
