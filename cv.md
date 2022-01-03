@@ -1,0 +1,65 @@
+# Konstantin Parakhonka
+
+---
+
+### Contacts
+
+- Location: Grodno, Belarus
+
+* email: konstantin-poroh@mail.ru
+
+* tel: +375 29 2829636
+* discord:Konstantin-poroh(@Piftik)
+
+---
+
+### About me:
+
+I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills. I accomplished executive with a proven ability to build highly motivated teams. Then I have with over 6 years of experience in project management as chief engineer.
+
+---
+
+### Skils
+
+- HTML 5
+- CSS/SASS
+- JavaScript
+- Git
+- React(Beginer)
+
+* Figma
+
+---
+
+### Code example:
+
+```function squareDigits(num){
+    var string = num.toString();
+    var results = [];
+    for (var i = 0; i < string.length; i++){
+        results[i] = string[i] * string[i];
+    }
+    return Number(results.join(''));
+};
+
+```
+
+---
+
+### Work experience:
+
+I have been working as a chief engineer from 2013 to the present day.
+
+### Education:
+
+- Polotsk State University
+  Higher education
+- RSShool
+
+* Hexlet CSS/HTML
+
+---
+
+### English
+
+##### A2
